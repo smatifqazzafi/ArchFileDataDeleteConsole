@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ArchFileDataDeleteConsole\\ArchFileDataDeleteConsole\\ArchFileDataDeleteConsole.csproj": {}
+    "D:\\DotNetProjects\\ArchFileDataDeleteConsole\\ArchFileDataDeleteConsole\\ArchFileDataDeleteConsole.csproj": {}
   },
   "projects": {
-    "D:\\ArchFileDataDeleteConsole\\ArchFileDataDeleteConsole\\ArchFileDataDeleteConsole.csproj": {
+    "D:\\DotNetProjects\\ArchFileDataDeleteConsole\\ArchFileDataDeleteConsole\\ArchFileDataDeleteConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ArchFileDataDeleteConsole\\ArchFileDataDeleteConsole\\ArchFileDataDeleteConsole.csproj",
+        "projectUniqueName": "D:\\DotNetProjects\\ArchFileDataDeleteConsole\\ArchFileDataDeleteConsole\\ArchFileDataDeleteConsole.csproj",
         "projectName": "ArchFileDataDeleteConsole",
-        "projectPath": "D:\\ArchFileDataDeleteConsole\\ArchFileDataDeleteConsole\\ArchFileDataDeleteConsole.csproj",
+        "projectPath": "D:\\DotNetProjects\\ArchFileDataDeleteConsole\\ArchFileDataDeleteConsole\\ArchFileDataDeleteConsole.csproj",
         "packagesPath": "C:\\Users\\Ahmed Malik\\.nuget\\packages\\",
-        "outputPath": "D:\\ArchFileDataDeleteConsole\\ArchFileDataDeleteConsole\\obj\\",
+        "outputPath": "D:\\DotNetProjects\\ArchFileDataDeleteConsole\\ArchFileDataDeleteConsole\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
