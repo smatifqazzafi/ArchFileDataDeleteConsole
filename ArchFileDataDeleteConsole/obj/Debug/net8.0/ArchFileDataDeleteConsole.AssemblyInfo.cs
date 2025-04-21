@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ArchFileDataDeleteConsole")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f448c984bd39b670f7a4af72351b9c6082dc6a50")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0668467e5887734301b49ec0d30c2590ead35417")]
 [assembly: System.Reflection.AssemblyProductAttribute("ArchFileDataDeleteConsole")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ArchFileDataDeleteConsole")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
